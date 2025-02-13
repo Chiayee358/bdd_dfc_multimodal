@@ -1,0 +1,12 @@
+# Ignore all .tif files
+*.tif
+
+# Ignore temporary and system files
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Ignore specific folders
+pre_SAR_gan_whole/Images/
+
